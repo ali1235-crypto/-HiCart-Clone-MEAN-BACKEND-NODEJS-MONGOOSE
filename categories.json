@@ -1,0 +1,251 @@
+[{
+  "_id": {
+    "$oid": "6198254537163b475fbcc9bd"
+  },
+  "name": "Electronics",
+  "path": "Electronics",
+  "createdAt": {
+    "$date": "2021-11-19T22:29:25.084Z"
+  },
+  "updatedAt": {
+    "$date": "2021-11-19T22:29:25.084Z"
+  },
+  "__v": 0,
+  "childsId": [
+    "619825bda3b4f312362fecc9",
+    "61982966609624fbbdba39ee",
+    "61f6cd124833fbcbcac97c72",
+    "61f6d0654833fbcbcac97cd4",
+    "61f6cff94833fbcbcac97cd2",
+    "61f6cfb54833fbcbcac97cd0",
+    "61f6cf064833fbcbcac97cce"
+  ],
+  "imgbanner": "https://media.hicart.com/catalog/category/5-electronics_banner.jpg"
+},{
+  "_id": {
+    "$oid": "619825bda3b4f312362fecc9"
+  },
+  "name": "Large Appliances",
+  "path": "Electronics/Large Appliances",
+  "createdAt": {
+    "$date": "2021-11-19T22:31:25.670Z"
+  },
+  "updatedAt": {
+    "$date": "2021-11-19T22:31:25.670Z"
+  },
+  "__v": 0,
+  "parent": "Electronics",
+  "childsId": [
+    "6198271f609624fbbdba39da",
+    "6198278f609624fbbdba39de",
+    "619827c8609624fbbdba39e0",
+    "61982806609624fbbdba39e2"
+  ],
+  "imglogo": "https://i.ibb.co/nLXdwMy/larg.png",
+  "imgbanner": "https://i.ibb.co/kG90f8j/lgbanner.png"
+},{
+  "_id": {
+    "$oid": "6198271f609624fbbdba39da"
+  },
+  "name": "Refrigerators",
+  "path": "Electronics/Large Appliances/Refrigerators",
+  "parent": "Large Appliances",
+  "createdAt": {
+    "$date": "2021-11-19T22:37:19.685Z"
+  },
+  "updatedAt": {
+    "$date": "2021-11-19T22:37:19.685Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619827c8609624fbbdba39e0"
+  },
+  "name": "Cookers",
+  "path": "Electronics/Large Appliances/Cookers",
+  "parent": "Large Appliances",
+  "createdAt": {
+    "$date": "2021-11-19T22:40:08.210Z"
+  },
+  "updatedAt": {
+    "$date": "2021-11-19T22:40:08.210Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61982806609624fbbdba39e2"
+  },
+  "name": "Ovens",
+  "path": "Electronics/Large Appliances/Ovens",
+  "parent": "Large Appliances",
+  "createdAt": {
+    "$date": "2021-11-19T22:41:10.080Z"
+  },
+  "updatedAt": {
+    "$date": "2021-11-19T22:41:10.080Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61982876609624fbbdba39e4"
+  },
+  "name": "Garment Care",
+  "path": "Electronics/Small Appliances/Garment Care",
+  "parent": "Small Appliances",
+  "createdAt": {
+    "$date": "2021-11-19T22:43:02.868Z"
+  },
+  "updatedAt": {
+    "$date": "2021-11-19T22:43:02.868Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6198289c609624fbbdba39e6"
+  },
+  "name": "Electric Ovens",
+  "path": "Electronics/Small Appliances/Electric Ovens",
+  "parent": "Small Appliances",
+  "createdAt": {
+    "$date": "2021-11-19T22:43:40.839Z"
+  },
+  "updatedAt": {
+    "$date": "2021-11-19T22:43:40.839Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619828f9609624fbbdba39ea"
+  },
+  "name": "Vacuum Cleaners",
+  "path": "Electronics/Small Appliances/Vacuum Cleaners",
+  "parent": "Small Appliances",
+  "createdAt": {
+    "$date": "2021-11-19T22:45:13.569Z"
+  },
+  "updatedAt": {
+    "$date": "2021-11-19T22:45:13.569Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61982942609624fbbdba39ec"
+  },
+  "name": "Microwaves",
+  "path": "Electronics/Small Appliances/Microwaves",
+  "parent": "Small Appliances",
+  "createdAt": {
+    "$date": "2021-11-19T22:46:26.061Z"
+  },
+  "updatedAt": {
+    "$date": "2021-11-19T22:46:26.061Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61982966609624fbbdba39ee"
+  },
+  "name": "Small Appliances",
+  "path": "Electronics/Small Appliances",
+  "createdAt": {
+    "$date": "2021-11-19T22:47:02.040Z"
+  },
+  "updatedAt": {
+    "$date": "2021-11-19T22:47:02.040Z"
+  },
+  "__v": 0,
+  "parent": "Electronics",
+  "childsId": [
+    "61982942609624fbbdba39ec",
+    "619828f9609624fbbdba39ea",
+    "6198289c609624fbbdba39e6",
+    "61982876609624fbbdba39e4"
+  ],
+  "imglogo": "https://media.hicart.com/catalog/category/63-small-appliances_2.jpg",
+  "imgbanner": "https://media.hicart.com/catalog/category/63-small-appliances_banner.jpg"
+},{
+  "_id": {
+    "$oid": "61f6cd124833fbcbcac97c72"
+  },
+  "name": "COOLING, HEATING & AIR QUALITY",
+  "path": "Electronics/COOLING, HEATING & AIR QUALITY",
+  "parent": "Electronics",
+  "imglogo": "https://i.ibb.co/84tQ0GJ/haqlogo.png",
+  "imgbanner": "",
+  "childsId": [],
+  "createdAt": {
+    "$date": "2022-01-30T17:38:26.241Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-30T17:38:26.241Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f6cf064833fbcbcac97cce"
+  },
+  "name": "CAMERAS",
+  "path": "Electronics/CAMERAS",
+  "parent": "Electronics",
+  "imglogo": "https://i.ibb.co/C8LSHQV/camlogo.png",
+  "imgbanner": "",
+  "childsId": [],
+  "createdAt": {
+    "$date": "2022-01-30T17:46:46.082Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-30T17:46:46.082Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f6cfb54833fbcbcac97cd0"
+  },
+  "name": "COMPUTERS",
+  "path": "Electronics/COMPUTERS",
+  "parent": "Electronics",
+  "imglogo": "https://i.ibb.co/xS0YLyy/cmplogo.png",
+  "imgbanner": "",
+  "childsId": [],
+  "createdAt": {
+    "$date": "2022-01-30T17:49:41.015Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-30T17:49:41.015Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f6cff94833fbcbcac97cd2"
+  },
+  "name": "GAMING ZONE",
+  "path": "Electronics/GAMING ZONE",
+  "parent": "Electronics",
+  "imglogo": "https://media.hicart.com/catalog/category/370x259_gamingzone.jpg",
+  "imgbanner": "",
+  "childsId": [],
+  "createdAt": {
+    "$date": "2022-01-30T17:50:49.529Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-30T17:50:49.529Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61f6d0654833fbcbcac97cd4"
+  },
+  "name": "TV, AUDIO & VIDEO",
+  "path": "Electronics/TV, AUDIO & VIDEO",
+  "parent": "Electronics",
+  "imglogo": "https://i.ibb.co/mNPwh0x/tvlogo.png",
+  "imgbanner": "",
+  "childsId": [],
+  "createdAt": {
+    "$date": "2022-01-30T17:52:37.209Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-30T17:52:37.209Z"
+  },
+  "__v": 0
+}]

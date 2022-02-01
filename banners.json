@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "61ed96ac44761934ad34db6c"
+  },
+  "path": "https://media.hicart.com/images/slider/d-Winter-Festival-Hero-Banner.jpg",
+  "__v": 0,
+  "title": "WinterFestival"
+},{
+  "_id": {
+    "$oid": "61edb48844761934ad34db8c"
+  },
+  "path": "https://media.hicart.com/images/slider/d_shoplocal_shop.jpg",
+  "__v": 0,
+  "title": "Shop Local"
+},{
+  "_id": {
+    "$oid": "61edb4a744761934ad34db8e"
+  },
+  "path": "https://media.hicart.com/images/slider/d-HiCart-Banner-2025x275.jpg",
+  "__v": 0,
+  "title": "CFI"
+}]
